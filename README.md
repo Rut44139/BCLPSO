@@ -1,6 +1,6 @@
 # Binary Comprehensive Learning Particle Swarm Optimization
 
-This **MATLAB** code presents the binary comprehensive learning particle swarm optimization (BCLPSO) method, a powerful meta-heuristic algorithm for the optimal design of nonlinear steel structures using standard member sizes. Meta-heuristic algorithms are a class of advanced optimization techniques that employ trial-and-error processes to search for optimal solutions within a population. The term "meta" signifies a higher level beyond traditional approaches.
+This **MATLAB** code presents the binary comprehensive learning particle swarm optimization (BCLPSO) method, a powerful meta-heuristic algorithm for the optimal design of nonlinear steel structures using standard member sizes. Meta-heuristic algorithms are a class of advanced optimization techniques that employ trial-and-error processes to search for optimal solutions within a population. The term **meta** signifies a higher level beyond traditional approaches.
 
 The BCLPSO algorithm belongs to the population-based (or trajectory-based) meta-heuristic techniques, characterized by two main phases: exploitation and exploration. The exploitation phase focuses on searching for local solutions by leveraging information from good local solutions, while the exploration phase constructs the search space to discover global optima. The key to effective meta-heuristic methods lies in striking a balance between exploration and exploitation, ensuring the avoidance of premature convergence to local optima and increasing the chances of finding accurate optima.
 
@@ -12,7 +12,11 @@ By harnessing the power of the BCLPSO algorithm and integrating concepts from th
 
 ## This code offers several benefits:
 - The design complies with the AISC-LRFD standard specifications.
-- the sizes and lay-outs of cross-brace members appended to the steel frames are simultaneously optimized.
+- The sizes and lay-outs of cross-brace members appended to the steel frames are simultaneously optimized.
 - The latter converts design variables into binary bit-strings.
 
 ## Contributing:
+This project welcomes contributions and suggestions from interested individuals. For more detailed information and to delve into the depths of this research, kindly refer to the publication reference provided below:
+
+[1] Su, R.; Tangaramvong, S.; Van, T.H.; Chaiwongnoi, A.; Song, C.  Binary Comprehensive Learning Particle Swam Optimization Approach for Optimal Design of Nonlinear Steel Structures with Standard Sizes. Buildings 2023, 12, x.
+(https://doi.org/10.3390/xxxxx)
