@@ -8,7 +8,7 @@ Numerous meta-heuristic algorithms have been developed, each with its own streng
 
 Our recent work introduces an exceptional variant of PSO, known as comprehensive learning particle swarm optimization (CLPSO), which has demonstrated remarkable performance in various engineering applications. CLPSO incorporates a learning technique that facilitates cross positions between sets of the best swarm particles in each dimensional space, effectively overcoming locally optimal searches and preventing premature termination of non-optimal but feasible solutions. The proposed scheme utilizes a learning probability function to foster cooperative responses among swarm populations, enhancing the algorithm's ability to explore the search space effectively.
 
-By harnessing the power of the BCLPSO algorithm and integrating concepts from the CLPSO variant, this research aims to provide an advanced computational tool for the optimal design of nonlinear steel structures, enabling engineers to efficiently navigate the design space and obtain accurate solutions.
+By harnessing the power of the BCLPSO algorithm and integrating concepts from the CLPSO variant, this work aims to provide an advanced computational tool for the optimal design of nonlinear steel structures, enabling engineers to efficiently navigate the design space and obtain accurate solutions.
 
 ## This code offers several benefits:
 - The design complies with the AISC-LRFD standard specifications.
