@@ -18,5 +18,5 @@ By harnessing the power of the BCLPSO algorithm and integrating concepts from th
 ## Contributing:
 This project welcomes contributions and suggestions from interested individuals. For more detailed information and to delve into the depths of this research, kindly refer to the publication reference provided below:
 
-[1] Su, R.; Tangaramvong, S.; Van, T.H.; Chaiwongnoi, A.; Song, C.  Binary Comprehensive Learning Particle Swam Optimization Approach for Optimal Design of Nonlinear Steel Structures with Standard Sizes. Buildings 2023, 12, x.
-(https://doi.org/10.3390/xxxxx)
+[1] Su, R.; Tangaramvong, S.; Van, T.H.; Chaiwongnoi, A.; Song, C.  Binary Comprehensive Learning Particle Swam Optimization Approach for Optimal Design of Nonlinear Steel Structures with Standard Sizes. Buildings 2023, 13(8), 1988.
+(https://doi.org/10.3390/buildings13081988)
